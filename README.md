@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Anis
 #### Security Specialist
-![Security Specialist](https://securitybrief.com.au/uploads/story/2022/11/16/GettyImages-466487479.webp)
 
 Hello, my name is Anis and my objective is to apply my skills and experience 
 to ensure that organizations are well-protected against cyber threats. I am 
