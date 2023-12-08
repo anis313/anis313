@@ -2,9 +2,7 @@
 
 
 👑 I'm a Security Specialist
-
 🖊️ Love to Research
-
 🎤 Like to share my Knowledge
 
 
