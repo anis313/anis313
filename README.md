@@ -14,7 +14,7 @@ security solutions. My aim is to provide reliable protection for organizations
 and help them navigate the constantly-evolving landscape of cyber threats.
 
 ### 👨‍💻 Skills & Experiance:
-✅ Linux
+#### ✅ Linux
 ✅ Python 
 ✅ HTML/CSS
 ✅ Networking 
