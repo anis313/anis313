@@ -15,12 +15,12 @@ and help them navigate the constantly-evolving landscape of cyber threats.
 
 ### 👨‍💻 Skills & Experiance:
 #### ✅ Linux
-✅ Python 
-✅ HTML/CSS
-✅ Networking 
-✅ Web Application Security 
-✅ Network Security 
-✅ Penetretion Testing 
+#### ✅ Python 
+#### ✅ HTML/CSS
+#### ✅ Networking 
+#### ✅ Web Application Security 
+#### ✅ Network Security 
+#### ✅ Penetretion Testing 
 
 
 
